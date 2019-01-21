@@ -1,4 +1,4 @@
-Lista de la compra
+# Lista de la compra
 
 agua
 leche
@@ -9,4 +9,11 @@ aceite
 queso
 
 jamón
+
+##frutas
+
+naramjas
+pera
+manzana
+
 
